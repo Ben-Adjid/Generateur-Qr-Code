@@ -1,1 +1,23 @@
- ### README.md ```markdown # Générateur de QR Code Ce projet est un générateur de QR Code créé à l'aide de HTML, CSS et JavaScript. Il permet aux utilisateurs de saisir du texte ou une URL et de générer un QR Code correspondant. Le projet utilise la bibliothèque `qr-code-styling` pour créer des QR Codes stylisés. ## Fonctionnalités - Saisie de texte ou d'URL pour générer un QR Code - Affichage du QR Code généré - Style personnalisable pour le QR Code ## Prérequis Pour exécuter ce projet, vous avez besoin de : - Un navigateur web moderne (Chrome, Firefox, Safari, etc.) - Une connexion internet pour charger la bibliothèque `qr-code-styling` depuis le CDN ## Installation 1. Clonez ce dépôt ou téléchargez les fichiers source. ```sh git clone https://github.com/Ben-Adjid/generateur-qr-code.git ``` 2. Ouvrez le fichier `index.html` dans votre navigateur web. ## Structure des Fichiers - `index.html` : Le fichier HTML principal contenant la structure de la page. - `styles.css` : Le fichier CSS pour le style de la page. - `scripts.js` : Le fichier JavaScript contenant la logique de génération du QR Code. ## Utilisation 1. Ouvrez le fichier `index.html` dans un navigateur Web. 2. Saisissez le texte ou l'URL que vous souhaitez convertir en QR Code dans le champ de saisie. 3. Cliquez sur le bouton « Générer le QR Code ». 4. Le QR Code correspondant s'affichera dans la section dédiée. ## Bibliothèque utilisée - [qr-code-styling](https://github.com/kozakdenys/qr-code-styling) :
+# Générateur de QR Code
+
+Ce projet est un générateur de QR Code créé à l'aide de HTML, CSS et JavaScript. Il permet aux utilisateurs de saisir du texte ou une URL et de générer un QR Code correspondant. Le projet utilise la bibliothèque `qr-code-styling` pour créer des QR Codes stylisés.
+
+## Fonctionnalités
+
+- Saisie de texte ou d'URL pour générer un QR Code
+- Affichage du QR Code généré
+- Style personnalisable pour le QR Code
+
+## Prérequis
+
+Pour exécuter ce projet, vous avez besoin de :
+
+- Un navigateur web moderne (Chrome, Firefox, Safari, etc.)
+- Une connexion internet pour charger la bibliothèque `qr-code-styling` depuis le CDN
+
+## Installation
+
+1. Clonez ce dépôt ou téléchargez les fichiers source.
+
+```sh
+git clone https://github.com/votre-utilisateur/generateur-qr-code.git
